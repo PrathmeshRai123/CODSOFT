@@ -1,7 +1,7 @@
 # codsoft
 here is my all code of web devlopment intern in this repo
 Landing Page 
-Task 1 Codsoft Internship
+Task  Codsoft Internship
 <!DOCTYPE html>
 <html lang="en">
 <head>
