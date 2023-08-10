@@ -143,9 +143,9 @@ Task 1 Codsoft Internship
   </footer>
 </body>
 </html>
-#task 2 
-#PORTFOLIO PAGE 
-#CODSOFT Intern
+Task 2 Codsoft
+PORTFOLIO PAGE 
+CODSOFT Intern
 #PORTFOLIO.html
 <!DOCTYPE html>
 <html lang="en">
