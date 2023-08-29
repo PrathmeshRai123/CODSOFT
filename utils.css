@@ -1,0 +1,31 @@
+#CSS
+saved as utils.css aand use for bg color
+...
+..
+.
+body {
+    background-color: #e29c10;
+    /* ... Other styles ... */
+  }
+  
+  .calculator {
+    background-color: #e8293c;
+    /* ... Other styles ... */
+  }
+  
+  .display {
+    background-color: #e50707;
+    border: 1px solid #0c7ba3;
+    /* ... Other styles ... */
+  }
+  
+  .btn {
+    background-color: #3fc40f;
+    border: 1px solid #0895ad;
+    /* ... Other styles ... */
+  }
+  
+  .btn:hover {
+    background-color: #e6acac;
+    /* ... Other styles ... */
+  }
